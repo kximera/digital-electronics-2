@@ -1,1 +1,3 @@
-# digital-electronics-2
+# _digital-electronics-2_
+## Laboratory exercise
+### Arduino
