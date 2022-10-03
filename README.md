@@ -2,8 +2,6 @@
 
 ### Morse code
 ```
-
-
 1. Listing of C code which repeats one "dot" and one "comma" (BTW, in Morse code it is letter `A`) on a LED. Always use syntax highlighting, meaningful comments, and follow C guidelines:
 
 #define LED_GREEN PB5   // PB5 is AVR pin where green on-board LED is connected
@@ -43,8 +41,9 @@ int main(void)
 
 
 2. Scheme of Morse code application, i.e. connection of AVR device, LED, resistor, and supply voltage. The image can be drawn on a computer or by hand. Always name all components and their values!
+```
 
    ![your figure](![led](https://user-images.githubusercontent.com/63504192/193686145-89fc51d1-c107-4e0f-8b9b-5f02bca9ee53.jpg)
 )
 ![led](https://user-images.githubusercontent.com/63504192/193686431-66d16e93-f0a5-437d-94a2-e172883a2ba7.jpg)
-```
+
