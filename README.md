@@ -1,6 +1,7 @@
 # Lab 1: JESÚS SANTOS
 
 ### Morse code
+```
 
 1. Listing of C code which repeats one "dot" and one "comma" (BTW, in Morse code it is letter `A`) on a LED. Always use syntax highlighting, meaningful comments, and follow C guidelines:
 
@@ -43,6 +44,7 @@ int main(void)
     // Will never reach this
     return 0;
 }
+```
 
 
 2. Scheme of Morse code application, i.e. connection of AVR device, LED, resistor, and supply voltage. The image can be drawn on a computer or by hand. Always name all components and their values!
