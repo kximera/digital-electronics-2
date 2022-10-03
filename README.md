@@ -1,6 +1,6 @@
 # Lab 1: JESÚS SANTOS
 
-### Morse code
+## Morse code
 
 1. Listing of C code which repeats one "dot" and one "comma" (BTW, in Morse code it is letter `A`) on a LED. Always use syntax highlighting, meaningful comments, and follow C guidelines:
 
